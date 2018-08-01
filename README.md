@@ -1,4 +1,6 @@
-# This is a simple Springboot service application that accepts AdRequests and responds with AdResponses. 
+# Simple bidder service 
+
+This is a simple Springboot service application that accepts AdRequests and responds with AdResponses. 
 
 This is only for end to end tests and the responses can be configurable, according to the needs of the caller.
 
